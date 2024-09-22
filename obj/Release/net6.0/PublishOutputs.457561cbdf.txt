@@ -1,0 +1,11 @@
+/Users/serpihanlumut/Documents/SimpleApi/SimpleApi/bin/Release/net6.0/publish/SimpleApi
+/Users/serpihanlumut/Documents/SimpleApi/SimpleApi/bin/Release/net6.0/publish/appsettings.Development.json
+/Users/serpihanlumut/Documents/SimpleApi/SimpleApi/bin/Release/net6.0/publish/appsettings.json
+/Users/serpihanlumut/Documents/SimpleApi/SimpleApi/bin/Release/net6.0/publish/SimpleApi.dll
+/Users/serpihanlumut/Documents/SimpleApi/SimpleApi/bin/Release/net6.0/publish/SimpleApi.deps.json
+/Users/serpihanlumut/Documents/SimpleApi/SimpleApi/bin/Release/net6.0/publish/SimpleApi.runtimeconfig.json
+/Users/serpihanlumut/Documents/SimpleApi/SimpleApi/bin/Release/net6.0/publish/SimpleApi.pdb
+/Users/serpihanlumut/Documents/SimpleApi/SimpleApi/bin/Release/net6.0/publish/Microsoft.OpenApi.dll
+/Users/serpihanlumut/Documents/SimpleApi/SimpleApi/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/serpihanlumut/Documents/SimpleApi/SimpleApi/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/serpihanlumut/Documents/SimpleApi/SimpleApi/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
