@@ -44,4 +44,4 @@ jobs:
 
     - name: Trigger Jenkins job
       run: |
-        curl -u "${{ secrets.JENKINS_USERNAME }}:${{ secrets.JENKINS_TOKEN }}" -H "${{ steps.get-crumb.outputs.crumb }}" -X POST http://103.160.62.183:8080/job/myapiapp-deployment/build?token=11f071c7669ea30df36e65dd7fa392d28f
+        curl -u "${{ secrets.JENKINS_USERNAME }}:${{ secrets.JENKINS_TOKEN }}" -H "${{ steps.get-crumb.outputs.crumb }}" -X POST http://103.160.62.183:8080/job/simpleapi-deployment/build?token=11f071c7669ea30df36e65dd7fa392d28f
